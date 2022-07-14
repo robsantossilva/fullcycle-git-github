@@ -1,3 +1,4 @@
 *.js @sfwebtecnologia
-.github/ @sfwebtecnologia
+.github/ @robsantossilva
 *.go @sfwebtecnologia
+*.html @robsantossilva
