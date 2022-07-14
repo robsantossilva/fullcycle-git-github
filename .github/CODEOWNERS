@@ -2,3 +2,4 @@
 .github/ @robsantossilva
 *.go @sfwebtecnologia
 *.html @robsantossilva
+*.css @sfwebtecnologia
